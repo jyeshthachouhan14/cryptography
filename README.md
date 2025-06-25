@@ -146,4 +146,4 @@ Click the **"Encrypt"** button.
 ![Decryption Process](images/decryption_process.png)
 
 ---
-*For a detailed theoretical explanation of the cryptographic concepts used in this tool, please refer to the original `README.md` file included in the repository.*
+*For a detailed theoretical explanation of the cryptographic concepts used in this tool, please refer to the respective `README.md` file included in the repository.*
